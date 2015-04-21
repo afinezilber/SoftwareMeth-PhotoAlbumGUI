@@ -1,0 +1,19 @@
+Worksplit for Photo Album GUI Group 69
+
+Team Member	Window
+-----------	------
+Allon		S0
+Allon		S3	
+Allon		S6	
+Allon		S8	
+Allon		S10	
+Allon		S11	
+Allon		S13
+Ananth		S1
+Ananth		S2
+Ananth		S4
+Ananth		S5	
+Ananth		S7	
+Ananth		S9
+Ananth		S14
+
